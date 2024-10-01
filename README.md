@@ -3,6 +3,6 @@ Welcome to the Magical World of Data Management with DBeaver!
 
 # Medium Makalem3
 
-Medium'da yayınladığım makalemi okumak için aşağıdaki linke tıklayabilirsiniz:
+You can click on the link below to read my article published on Medium:
 
 [Makalemi Medium'da oku](https://medium.com/academy-team/welcome-to-the-magical-world-of-data-management-with-dbeaver-a8fd801d641e)
