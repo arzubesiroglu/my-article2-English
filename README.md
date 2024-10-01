@@ -1,7 +1,7 @@
 # my-article2-English
 Welcome to the Magical World of Data Management with DBeaver!
 
-# Medium Makalem3
+# My Medium Article3
 
 You can click on the link below to read my article published on Medium:
 
